@@ -9,3 +9,6 @@
 
 ### Course 4 : <a href="https://github.com/PritSapariya/py4e/tree/main/Course4">Using Databases with Python</a>
 
+<br><hr>
+<i>Note: Files, Databases and other things required for Assignment is given in <b>Resources</b> folder in each course folder. Clone files those are needed for assignment to your current directory. so don't afraid if you get an error. Good Luck!</i>
+
